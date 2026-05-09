@@ -366,6 +366,10 @@ webbrowser.open(url)
 Run The shell command `python "C:\Users\princ\scripts\play_song.py" "https://www.youtube.com/watch?v=YHRvDo8rUoQ"`
 ```
 
+<img width="400" height="711" alt="you" src="https://github.com/user-attachments/assets/0c4ec815-8fca-4f98-a1ab-549044fea407" />
+
+
+
 # Set Volume volume_50.py
 
 ```

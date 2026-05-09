@@ -11,6 +11,9 @@
 7. What's Next: Playlist tools, GPU monitoring, voice triggers
 
 
+<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/193cca2e-1115-46e1-a94c-40ded1c95d59" />
+
+
 **OpenClaw + AI Agent Setup Guide (Windows)**
 
 **Author:** Lovnish Verma | **Platform:** Windows 11 | **Reference Hardware:** MSI Cyborg 15 A12U (RTX 2050, 4GB VRAM)

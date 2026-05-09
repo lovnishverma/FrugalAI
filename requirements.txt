@@ -2,3 +2,4 @@ pycaw
 comtypes
 opencv-python
 pyautogui
+python-dotenv

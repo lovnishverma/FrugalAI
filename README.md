@@ -1,5 +1,7 @@
 # FrugalAI
 
+FrugalAI is a WhatsApp-controlled local AI assistant built for low-end hardware using Ollama, OpenClaw, and Qwen2.5-3B on an RTX 2050 (4GB VRAM). It enables practical local-first AI automation with remote command execution, Python tool integration, screenshot and webcam capture, YouTube automation, email sending, and persistent agent memory — all without paid cloud APIs.
+
 **Running an AI Agent on 4GB VRAM: My WhatsApp-Controlled Local Assistant**
 
 1. The Problem: Cloud AI is expensive, private AI is hard
@@ -537,7 +539,7 @@ I just cracked the code: Local AI + WhatsApp + YouTube automation on a 4GB RTX 2
 
 
 ```
-"Everyone talks about running LLMs locally. Almost no one shows you how to make them *useful* on 4GB VRAM." - Lovnish Verma
+"Everyone talks about running LLMs locally. Almost no one shows you how to make them useful on 4GB VRAM." - Lovnish Verma
 
-*Last updated: May 2026*
+Last updated: May 2026
 ```

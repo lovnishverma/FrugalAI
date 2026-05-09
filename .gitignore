@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OpenClaw
+.openclaw/
+sessions/
+logs/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# Screenshots
+*.png
+*.jpg

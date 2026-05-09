@@ -1,6 +1,10 @@
 import smtplib
 from email.mime.text import MIMEText
+import os
 import sys
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Expected format: python send_mail.py "to@email.com" "Subject" "Message body"
 
@@ -12,9 +16,8 @@ to_email = sys.argv[1]
 subject = sys.argv[2]
 body = sys.argv[3]
 
-GMAIL_USER = "technicalboyprince@gmail.com"
-# Use an app password, not your main password
-GMAIL_APP_PASSWORD = "xxxx xxxx xxxx xxxx"
+GMAIL_USER = "your_email@gmail.com"
+GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 
 msg = MIMEText(body)
 msg['Subject'] = subject
